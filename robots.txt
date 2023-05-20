@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bochwasuch.github.io/sitemap.xml
